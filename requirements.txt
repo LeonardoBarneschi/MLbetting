@@ -1,0 +1,6 @@
+pandas==1.1.5
+numpy==1.19.4
+Scrapy==2.4.1
+selenium==3.141.0
+geckodriver==0.28.0
+python_dateutil==2.8.1
